@@ -1,0 +1,4 @@
+D:\Avinash\StudyCircleManagementSystem\StudyCircleManagementSystem\bin\Debug\StudyCircleManagementSystem.dll
+D:\Avinash\StudyCircleManagementSystem\StudyCircleManagementSystem\bin\Debug\StudyCircleManagementSystem.pdb
+D:\Avinash\StudyCircleManagementSystem\StudyCircleManagementSystem\obj\Debug\StudyCircleManagementSystem.dll
+D:\Avinash\StudyCircleManagementSystem\StudyCircleManagementSystem\obj\Debug\StudyCircleManagementSystem.pdb
